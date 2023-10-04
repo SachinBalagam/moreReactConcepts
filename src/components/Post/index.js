@@ -10,7 +10,7 @@ const Post = () => (
       React features without writing a class.
     </p>
     <div className="social-button-wrapper">
-      <SocialButton>{/* Your Code Goes here */}</SocialButton>
+      <SocialButton>Like</SocialButton>
     </div>
   </div>
 )
